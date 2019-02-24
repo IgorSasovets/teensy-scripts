@@ -5,7 +5,7 @@ General information
 ===================
 
 This repository contains example of different scripts that can be used with Teensy 3.2.
-**All listed were created just for the _learning purposes_.** Teensy - is a complete USB-based microcontroller
+**All listed scripts were created just for the _educational purposes_.** Teensy - is a complete USB-based microcontroller
 development system, in a very small footprint, capable of implementing many types of projects.
 All programming is done via the USB port. More information about this wonderful microcontroller
 listed [here](https://www.pjrc.com/teensy/). Please always be careful and protect your personal data
